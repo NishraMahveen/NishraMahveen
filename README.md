@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishraMahveen
 - 🌱 I’m currently learning Data Structures and Algorithms to strengthen problem-solving skills.
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nishra-mahveen-1271bb241)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nishramahveen)
 - 📚 Open to collaborations and eager to connect with like-minded individuals in the tech community.
 
 
